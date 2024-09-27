@@ -19,7 +19,7 @@ Each chapter is an interactive Jupyter Notebook on Google Colab, packed with cle
 ## 📚 What You'll Learn
 
 - **Fundamental Concepts**: Grasp the essentials of protein structure and function.
-- **Data Representation**: Master techniques like one-hot encoding and protein sequence visualization.
+- **Data Representation**: Techniques like one-hot sequence encoding, structure contact map.
 - **Machine Learning Applications**: Harness traditional and modern machine learning methods to predict protein properties and functions.
 
 ## 💻 Getting Started
