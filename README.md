@@ -1,18 +1,14 @@
 
-# 🧬 Protein Machine Learning Applications Crash Course
+# 🧬 Protein Machine Learning Applications Crash Course [WIP]
 Welcome to the Protein Machine Learning Applications Crash Course! This interactive course is designed for beginners eager to explore the fascinating intersection of proteins and machine learning. Get ready to dive into a world where biology meets technology!
 
 ## 🚀 Course Overview
 
 Proteins are the building blocks of life. Understanding their structure and function is crucial in fields like drug discovery, biotechnology, and bioinformatics. In this crash course, you'll embark on a hands-on journey through these exciting topics:
 
-1. **Protein Fundamentals**: Explore the core concepts of protein structure, from primary sequences to complex tertiary forms.
-2. **Protein Sequences**: Master the art of representing protein sequences using one-hot encoding and visualizing their properties.
-3. **Protein Structures**: Uncover the world of protein structures, using contact graphs and clustering techniques to analyze relationships.
-4. **Traditional ML for Protein Properties**: Apply classical machine learning techniques to predict protein properties from their sequences.
-5. **Secondary Structure Prediction**: Discover simple methods and models for predicting protein secondary structures.
-6. **Protein Function Prediction**: Learn to predict protein functions using Gene Ontology and other frameworks.
-7. **Protein Structure Prediction**: Get hands-on experience with simple techniques for predicting protein structures.
+0. **Protein Fundamentals**: Explore the core concepts of protein structure, from primary sequences to complex tertiary forms.
+1. **Protein Sequences**: Master the art of representing protein sequences using one-hot encoding and visualizing their properties.
+2. **Protein Structures**: Uncover the world of protein structures, using contact graphs and clustering techniques to analyze relationships.
 
 Each chapter is an interactive Jupyter Notebook on Google Colab, packed with clear explanations and runnable code. You'll gain both theoretical knowledge and practical skills, empowering you to tackle real-world problems in protein engineering.
 
