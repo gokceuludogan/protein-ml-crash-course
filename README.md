@@ -23,9 +23,3 @@ Each chapter is an interactive Jupyter Notebook on Google Colab, packed with cle
 1. **Prerequisites**: Basic Python programming knowledge. Familiarity with machine learning concepts is helpful but not required.
 2. **Environment**: All materials are provided on Google Colab, allowing you to easily run code and experiment with the notebooks.
 3. **Join Us**: Follow the chapters in sequence to build your knowledge and skills step by step.
-
-## 🌍 Connect with Us!
-
-We're excited to hear about your journey through the course! Share your projects, ask questions, and connect with fellow learners.
-
-Join our Discord community to collaborate, share ideas, and immerse yourself in a vibrant learning environment!
